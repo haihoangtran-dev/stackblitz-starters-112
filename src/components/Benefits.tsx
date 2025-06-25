@@ -1,5 +1,5 @@
 import React from 'react'
-import { Clock, Shield, DollarSign, Users, FileText, Headphones, DivideIcon as LucideIcon } from 'lucide-react'
+import { Clock, Shield, DollarSign, Users, FileText, Headphones} from 'lucide-react'
 import { Benefit } from '../types'
 
 const Benefits: React.FC = () => {

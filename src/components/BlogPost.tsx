@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { useParams, useNavigate } from 'react-router-dom'
-import { Calendar, Clock, User, Tag, ArrowLeft, Share2, Facebook, Twitter, Linkedin } from 'lucide-react'
+import { Calendar, Clock, User, Tag, ArrowLeft, Facebook, Twitter, Linkedin } from 'lucide-react'
 import { blogPosts } from '../data/blogPosts'
 import { BlogPost as BlogPostType } from '../types'
 
